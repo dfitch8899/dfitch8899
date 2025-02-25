@@ -1,6 +1,6 @@
 ## Hi there 👋 my name is Devin
-## 🔭 I’m currently working on a Hangman Game
-## 🌱 I’m currently learning python
+## 🔭 I’m currently working on a computer science degree
+## 🌱 I’m currently learning C++
 ## 📫 How to reach me: df215123@ohio.edu
 
 <!--
